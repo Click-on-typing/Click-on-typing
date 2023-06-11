@@ -86,7 +86,7 @@ font-family: 'Muli', sans-serif;*/
 body {
 	font-family: 'Muli', sans-serif;
 	font-size:14px;
-	color:#777777;
+	color:#ffffff;
 	line-height:1.7em;
 	font-weight:400;
 	background:#ffffff;
@@ -5039,6 +5039,7 @@ a:hover {
 	background-image: -webkit-gradient(linear, right top, left top, color-stop(0, #0ee951), color-stop(100, #00dabf));
 	background-image: -webkit-linear-gradient(right, #0ee951 0%, #00dabf 100%);
 	background-image: linear-gradient(to left, #0ee951 0%, #00dabf 100%);
+	background-image: linear-gradient(to left, #34537b 0%, #00fadb 100%);
 }
 
 .services-block-three .inner-box h6{
