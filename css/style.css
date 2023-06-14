@@ -5698,9 +5698,10 @@ a:hover {
 
 .business-section .contents-column .awards-blocks .awards-inner ul li{
 	position:relative;
-	width:30%;
+	width:100% !important;
 	margin-right:20px;
-	display:inline-block;
+	font-size: 16px;
+	/* display:inline-block; */
 	box-shadow:0px 0px 15px rgba(0,0,0,0.10);
 }
 
